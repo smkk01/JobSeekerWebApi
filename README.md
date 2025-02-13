@@ -1,1 +1,1 @@
-WebApi which provides jobs applicants information using ASP.Net Core MVC, MSSQL, Entity Framework Core, JWT and Auto Mapper.
+WebAPI was developed by using ASP.Net Core MVC, MSSQL, Entity Framework Core, JWT and Auto Mapper to perform CRUD operations on applicants information which have the master detail relationship records..
